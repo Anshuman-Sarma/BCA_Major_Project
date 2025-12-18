@@ -8,16 +8,18 @@ Hey Mom! : A Childcare Assistant App for New Mothers
 --------------------------------------------------
 
 STUDENT DETAILS
+
 Course  : Bachelor of Computer Applications (BCA)
+
 Project : Major Project (6th Semester)
 
 Project Members:
 
--- Anshuman Sarma
+- Anshuman Sarma
 
--- Nyubenlo Seb
+- Nyubenlo Seb
 
--- Owen Warlarpih
+- Owen Warlarpih
 
 --------------------------------------------------
 
