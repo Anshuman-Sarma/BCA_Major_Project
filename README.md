@@ -12,8 +12,11 @@ Course  : Bachelor of Computer Applications (BCA)
 Project : Major Project (6th Semester)
 
 Project Members:
+
 -- Anshuman Sarma
+
 -- Nyubenlo Seb
+
 -- Owen Warlarpih
 
 --------------------------------------------------
